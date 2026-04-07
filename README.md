@@ -27,7 +27,6 @@ I'm a Grade 11 student from Dubai studying in The Indian High School Dubai. I'm 
 - 📍 Location: Dubai, UAE
 - 💼 Open to collaborating on projects.
 
-![Thanush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manchikantithanush-netizen&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manchikantithanush-netizen&theme=radical)
 
 
