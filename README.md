@@ -27,6 +27,10 @@ I'm a Grade 11 student from Dubai studying in The Indian High School Dubai. I'm 
 - 📍 Location: Dubai, UAE
 - 💼 Open to collaborating on projects.
 
+
+‎ ‎ ‎ 
+‎ 
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manchikantithanush-netizen&theme=radical)
 
 
