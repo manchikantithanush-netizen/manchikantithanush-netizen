@@ -26,3 +26,8 @@ I'm a Grade 11 student from Dubai studying in The Indian High School Dubai. I'm 
 - 📧 Email: thanush.manchikanti@gmail.com
 - 📍 Location: Dubai, UAE
 - 💼 Open to collaborating on projects.
+
+![Thanush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manchikantithanush-netizen&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=manchikantithanush-netizen&theme=radical)
+
+
