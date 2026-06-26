@@ -1,6 +1,7 @@
 
 # Hi, I'm Thanush! 👋
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W51LVRGD)
 
 ## 🚀 About Me
 I'm a Grade 11 student from Dubai studying in The Indian High School Dubai. I'm very passionate about programming. Im currently working on my skills in **cybersecurity** - with a focus on **penetration testing** and ai prompting and engineering.
