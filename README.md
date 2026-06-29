@@ -17,7 +17,7 @@ I'm a Grade 11 student from Dubai studying in The Indian High School Dubai. I'm 
 ## 🛠️ What I'm Working On
 - Completing a 15-hour Ethical Hacking practical course in Udemy by Zaid Sabih
 - Exploring current AI trends and prompt engineering such as experimenting with CLI tools, building and testing API integration, and testing new AI apps such as OpenClaw, NemoClaw etc.
-- Building **Synthese** - an Android app made with Flutter
+- Building **Unread** - an Android horror game with flutter
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanushmanchikanti)
